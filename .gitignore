@@ -5,8 +5,6 @@ haarcascades/
 
 *.jpg
 *.png
-*.PNG
-
 # Created by https://www.gitignore.io/api/code,macos,python,jupyternotebook
 
 ### Code ###
